@@ -1,4 +1,4 @@
-## DMCIS - Data Mining for Cyber-physical and Industrial Systems
+## DMCIS - Data Mining for Cyberphysical and Industrial Systems
 
 A workshop organized in association with ICDM’2017
 November 18, 2017 New Orleans, USA
@@ -11,7 +11,7 @@ Modern industrial and infrastructure systems have a cyber-physical architecture,
 
 Given that the detailed information about the underlying system topology and interactions might not be available, the emerging data mining techniques are becoming fundamental to tackle the aforementioned challenges. These techniques requires ideas and methodology from a wide variety of fields, including but not limited to statistical modeling, graph theory, anomaly detection, optimization, time series analytics, etc. Focusing on the methodological and practical aspects of data mining for industrial systems, this workshop provides an opportunity to discuss the latest theoretical advances and real-world applications in the field of cyber-physical systems. Papers are solicited to address a wide range of topics in these areas, including but not limited to:
 
-**Data Mining Methods for Industrial Systems***
+**Data Mining Methods for Industrial Systems**
 - Anomaly detection
 - Correlation discovery
 - Intrusion detection, localization and identification
