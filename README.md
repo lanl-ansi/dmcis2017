@@ -34,9 +34,9 @@ Given that the detailed information about the underlying system topology and int
 
 ## Submission Instructions:
 
-The page limit of workshop papers is 8 pages in the standard IEEE 2-column format, including the bibliography and any possible appendices. All papers must be formatted according to the <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html">IEEE Computer Society proceedings manuscript style </a>, following IEEE ICDM 2017 submission guidelines available at: http://icdm2017.bigke.org/.
+The page limit of workshop papers is 8 pages in the standard IEEE 2-column format, including the bibliography and any possible appendices. All papers must be formatted according to the <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html">IEEE Computer Society proceedings manuscript style</a>, following IEEE ICDM 2017 submission guidelines available at: <a href="http://icdm2017.bigke.org/">http://icdm2017.bigke.org/</a>.
 
-Papers should be submitted in PDF format, electronically, using the <a href="https://wi-lab.com/cyberchair/2017/icdm17/scripts/submit.php?subarea=SP23&undisplay_detail=1&wh=/cyberchair/2017/icdm17/scripts/ws_submit.php">CyberChair submission system </a>.
+Papers should be submitted in PDF format, electronically, using the <a href="https://wi-lab.com/cyberchair/2017/icdm17/scripts/submit.php?subarea=SP23&undisplay_detail=1&wh=/cyberchair/2017/icdm17/scripts/ws_submit.php">CyberChair submission system</a>.
 
 Accepted papers will be included in the IEEE ICDM 2017 Workshops Proceedings volume published by IEEE Computer Society Press, and will also be included in the IEEE Xplore Digital Library. The workshop proceedings will be in a CD separated from the CD of the main conference. The CD is produced by IEEE Conference Publishing Services (CPS). Every workshop paper must have at least one paid registration in order to be published.
 
@@ -53,10 +53,10 @@ TBA
 
 ## Program Committee
 
-Mark Buckner (Oak Ridge National Laboratory) <br>
-Florian Dörfler (ETH Zurich) <br>
-Manimaran Govindarasu (Iowa State University) <br>
-Hendrik Hamann (IBM Research) <br>
-Timothy Heidel (NRECA) <br>
-Sean Peisert (LBNL) <br>
-Paolo Tabuada (UCLA) <br>
+- Mark Buckner (Oak Ridge National Laboratory)
+- Florian Dörfler (ETH Zurich)
+- Manimaran Govindarasu (Iowa State University)
+- Hendrik Hamann (IBM Research)
+- Timothy Heidel (NRECA)
+- Sean Peisert (LBNL)
+- Paolo Tabuada (UCLA)
