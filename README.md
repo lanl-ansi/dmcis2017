@@ -40,9 +40,13 @@ Papers should be submitted in PDF format, electronically, using the <a href="htt
 
 Accepted papers will be included in the IEEE ICDM 2017 Workshops Proceedings volume published by IEEE Computer Society Press, and will also be included in the IEEE Xplore Digital Library. The workshop proceedings will be in a CD separated from the CD of the main conference. The CD is produced by IEEE Conference Publishing Services (CPS). Every workshop paper must have at least one paid registration in order to be published.
 
-## Invited Speaker
+## Program
 
 TBA
+
+## Keynote Speaker
+
+- William H. Sanders (University of Illinois at Urbana-Champaign)
 
 ## Organizing Committee
 
@@ -58,5 +62,6 @@ TBA
 - Manimaran Govindarasu (Iowa State University)
 - Hendrik Hamann (IBM Research)
 - Timothy Heidel (NRECA)
-- Sean Peisert (LBNL)
+- Earl Lawrence (Los Alamos National Laboratory)
+- Anna Scaglione (Arizona State University)
 - Paolo Tabuada (UCLA)
