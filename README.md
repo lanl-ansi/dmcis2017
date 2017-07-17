@@ -27,7 +27,7 @@ Given that the detailed information about the underlying system topology and int
 
 ## Key dates:
 
-- <span style="color:#FFFF00">August 16, 2017</span>:Due date for full workshop papers
+- <strike>August 7</strike> <span style="color:#FFFF00">August 16, 2017</span>: Due date for full workshop papers
 - September 7, 2017:  Notification of workshop papers acceptance to authors
 - September 15, 2017:  Camera-ready deadline for accepted papers
 - November 18, 2017:  Workshop date
