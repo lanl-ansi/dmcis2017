@@ -3,6 +3,26 @@
 A workshop organized in association with ICDM’2017 <br>
 November 18, 2017 New Orleans, USA
 
+## Program
+
+**<span style="color:#FFFF00">8.35 - 9.35 am</span>** Keynote invited talk: William H. Sanders (University of Illinois at Urbana-Champaign)
+
+**<span style="color:#FFFF00">9.35 - 10.00 am</span>** Accepted paper: <it>"Data-driven Anomaly Detection for Power System Generation Control"</it><br>
+Pengyuan Wang* (Iowa State University, USA), Manimaran Govindarasu (Iowa State University, USA), Aditya Ashok (Pacific Northwest National Lab, USA)
+
+**<span style="color:#FFFF00">10.00 - 10.15 am</span>** Coffee break
+
+**<span style="color:#FFFF00">10.15 - 10.40 am</span>** Invited talk: TBA
+
+**<span style="color:#FFFF00">10.40 - 11.05 am</span>** Accepted paper: "An Adaptive Modeling Framework for Bivariate Data Streams with Applications to Change Detection in Cyber-Physical Systems"<br>
+Joshua Plasse, Jordan Noble* (Imperial College London, UK), Kary Myers (Los Alamos National Laboratory, USA)
+
+**<span style="color:#FFFF00">11.05 - 11.30 am</span>** Accepted paper: "Anomaly Detection for a Water Treatment System Using Unsupervised Machine Learning"<br>
+Jun Inoue, Yoriyuki Yamagata* (National Institute of Advanced Industrial Science and Technology, Japan), Yuqi Chen, Christopher Poskitt, Jun Sun (Singapore University of Technology and Design, Singapore)
+
+**<span style="color:#FFFF00">11.30 - 11.55 am</span>** Accepted paper: "Pattern-Based Contextual Anomaly Detection\in HVAC Systems"<br>
+Mohsin Munir*, Andreas Dengel, Sheraz Ahmed (German Research Centre for Artificial Intelligence (DFKI), Germany)
+
 ## Workshop Description and Call for papers
 
 Modern industrial and infrastructure systems have a cyber-physical architecture, incorporating the underlying physical processes regulated by a control cyber system. In other words, they represent interdependent networks described by disparate mathematical models creating scientific challenges that go well beyond the modeling and analysis of the individual system layers. This calls for a development of novel data mining and machine learning approaches for the implementation, operation, data analytics, contol, and optimization in real-world infrastructure systems. Moreover, this complex structure is at the origin of vulnerabilities of the system to internal and external failures, as well as to the cyber attacks. Therefore, the questions of development of adequate models and methods for an efficient detection and localization of intrusions and faults, as well as proportional responses to potential attacks is of prime significance in many industrial systems, such as automotive systems, smart manufacturing, power grid, HVAC and building systems, etc.
@@ -40,27 +60,6 @@ Papers should be submitted in PDF format, electronically, using the <a href="htt
 
 Accepted papers will be included in the IEEE ICDM 2017 Workshops Proceedings volume published by IEEE Computer Society Press, and will also be included in the IEEE Xplore Digital Library. The workshop proceedings will be in a CD separated from the CD of the main conference. The CD is produced by IEEE Conference Publishing Services (CPS). Every workshop paper must have at least one paid registration in order to be published.
 
-## Program
-
-**<span style="color:#FFFF00">8.35 - 9.35 am</span>** Keynote invited talk: William H. Sanders (University of Illinois at Urbana-Champaign)
-
-**<span style="color:#FFFF00">9.35 - 10.00 am</span>** #Accepted paper: "Data-driven Anomaly Detection for Power System Generation Control"<br>
-Pengyuan Wang* (Iowa State University, USA), Manimaran Govindarasu (Iowa State University, USA), Aditya Ashok (Pacific Northwest National Lab, USA)
-
-**<span style="color:#FFFF00">10.00 - 10.15 am</span>** Coffee break
-
-**<span style="color:#FFFF00">10.15 - 10.40 am</span>** Invited talk: TBA
-
-**<span style="color:#FFFF00">10.40 - 11.05 am</span>** Accepted paper: "An Adaptive Modeling Framework for Bivariate Data Streams with Applications to Change Detection in Cyber-Physical Systems"<br>
-Joshua Plasse, Jordan Noble* (Imperial College London, UK), Kary Myers (Los Alamos National Laboratory, USA)
-
-**<span style="color:#FFFF00">11.05 - 11.30 am</span>** Accepted paper: "Anomaly Detection for a Water Treatment System Using Unsupervised Machine Learning"<br>
-Jun Inoue, Yoriyuki Yamagata* (National Institute of Advanced Industrial Science and Technology, Japan), Yuqi Chen, Christopher Poskitt, Jun Sun (Singapore University of Technology and Design, Singapore)
-
-**<span style="color:#FFFF00">11.30 - 11.55 am</span>** Accepted paper: "Pattern-Based Contextual Anomaly Detection\in HVAC Systems"<br>
-Mohsin Munir*, Andreas Dengel, Sheraz Ahmed (German Research Centre for Artificial Intelligence (DFKI), Germany)
-
-
 ## Keynote Speaker
 
 - William H. Sanders (University of Illinois at Urbana-Champaign)
@@ -81,4 +80,4 @@ Mohsin Munir*, Andreas Dengel, Sheraz Ahmed (German Research Centre for Artifici
 - Timothy Heidel (NRECA)
 - Earl Lawrence (Los Alamos National Laboratory)
 - Anna Scaglione (Arizona State University)
-- Paolo Tabuada (UCLA)
+- Paulo Tabuada (UCLA)
