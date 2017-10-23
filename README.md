@@ -5,11 +5,11 @@ November 18, 2017 New Orleans, USA
 
 ## Program
 
-**<span style="color:#FFFF00">8.35 - 9.35 am</span>** Keynote invited talk<br>
+**8.35 - 9.35 am Keynote invited talk**<br>
 William H. Sanders (University of Illinois at Urbana-Champaign)
 
-**<span style="color:#FFFF00">9.35 - 10.00 am</span>** Accepted paper<br>
-"Data-driven Anomaly Detection for Power System Generation Control"<br>
+**<span style="color:#FFFF00">9.35 - 10.00 am</span> Accepted paper**<br>
+<span style="color:#FFFF00">"Data-driven Anomaly Detection for Power System Generation Control"</span><br>
 Pengyuan Wang*, Manimaran Govindarasu (Iowa State University, USA)<br>
 Aditya Ashok (Pacific Northwest National Lab, USA)
 
