@@ -27,7 +27,7 @@ Given that the detailed information about the underlying system topology and int
 
 ## Key dates:
 
-- <span style="color:#FFFF00">August 16, 2017</span>: Due date for full workshop papers
+- August 16, 2017: Due date for full workshop papers
 - September 7, 2017:  Notification of workshop papers acceptance to authors
 - September 15, 2017:  Camera-ready deadline for accepted papers
 - November 18, 2017:  Workshop date
@@ -42,9 +42,9 @@ Accepted papers will be included in the IEEE ICDM 2017 Workshops Proceedings vol
 
 ## Program
 
-**8.35 - 9.35 am** Keynote invited talk: William H. Sanders (University of Illinois at Urbana-Champaign)
+**<span style="color:#FFFF00">8.35 - 9.35 am </span>** Keynote invited talk: William H. Sanders (University of Illinois at Urbana-Champaign)
 
-**9.35 - 10.00 am** Accepted paper: "Data-driven Anomaly Detection for Power System Generation Control"
+**9.35 - 10.00 am** #Accepted paper: "Data-driven Anomaly Detection for Power System Generation Control"
 Pengyuan Wang* (Iowa State University, USA), Manimaran Govindarasu (Iowa State University, USA), Aditya Ashok (Pacific Northwest National Lab, USA)
 
 **10.00 - 10.15 am** Coffee break
