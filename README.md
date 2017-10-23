@@ -5,7 +5,7 @@ November 18, 2017 New Orleans, USA
 
 ## Program
 
-**8.35 - 9.35 am Keynote invited talk**<br>
+**<span style="color:#FFFF00">8.35 - 9.35 am</span> Keynote invited talk**<br>
 William H. Sanders (University of Illinois at Urbana-Champaign)
 
 **<span style="color:#FFFF00">9.35 - 10.00 am</span> Accepted paper**<br>
@@ -13,22 +13,22 @@ William H. Sanders (University of Illinois at Urbana-Champaign)
 Pengyuan Wang*, Manimaran Govindarasu (Iowa State University, USA)<br>
 Aditya Ashok (Pacific Northwest National Lab, USA)
 
-**<span style="color:#FFFF00">10.00 - 10.15 am</span>** Coffee break
+**<span style="color:#FFFF00">10.00 - 10.15 am</span> Coffee break**
 
-**<span style="color:#FFFF00">10.15 - 10.40 am</span>** Invited talk: TBA
+**<span style="color:#FFFF00">10.15 - 10.40 am</span> Invited talk: TBA**
 
-**<span style="color:#FFFF00">10.40 - 11.05 am</span>** Accepted paper<br>
-"An Adaptive Modeling Framework for Bivariate Data Streams with Applications to Change Detection in Cyber-Physical Systems"<br>
+**<span style="color:#FFFF00">10.40 - 11.05 am</span> Accepted paper**<br>
+<span style="color:#FFFF00">"An Adaptive Modeling Framework for Bivariate Data Streams with Applications to Change Detection in Cyber-Physical Systems"</span><br>
 Joshua Plasse, Jordan Noble* (Imperial College London, UK)<br>
 Kary Myers (Los Alamos National Laboratory, USA)
 
 **<span style="color:#FFFF00">11.05 - 11.30 am</span>** Accepted paper<br>
-"Anomaly Detection for a Water Treatment System Using Unsupervised Machine Learning"<br>
+<span style="color:#FFFF00">"Anomaly Detection for a Water Treatment System Using Unsupervised Machine Learning"</span><br>
 Jun Inoue, Yoriyuki Yamagata* (National Institute of Advanced Industrial Science and Technology, Japan)<br>
 Yuqi Chen, Christopher Poskitt, Jun Sun (Singapore University of Technology and Design, Singapore)
 
 **<span style="color:#FFFF00">11.30 - 11.55 am</span>** Accepted paper<br>
-"Pattern-Based Contextual Anomaly Detection\in HVAC Systems"<br>
+<span style="color:#FFFF00">"Pattern-Based Contextual Anomaly Detection\in HVAC Systems"</span><br>
 Mohsin Munir*, Andreas Dengel, Sheraz Ahmed (German Research Centre for Artificial Intelligence (DFKI), Germany)
 
 ## Workshop Description and Call for papers
