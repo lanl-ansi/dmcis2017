@@ -18,7 +18,8 @@ Aditya Ashok (Pacific Northwest National Lab, USA)
 
 **<span style="color:#FFFF00">10.00 - 10.15 am</span> [Coffee break]**
 
-**<span style="color:#FFFF00">10.15 - 10.45 am</span> [Invited talk: TBA]**
+**<span style="color:#FFFF00">10.15 - 10.45 am</span> [Invited talk]**<br>
+Timothy Heidel (NRECA)
 
 **<span style="color:#FFFF00">10.45 - 11.05 am</span> [Accepted paper]**<br>
 <span style="color:#FFFF00">"An Adaptive Modeling Framework for Bivariate Data Streams with Applications to Change Detection in Cyber-Physical Systems"</span><br>
