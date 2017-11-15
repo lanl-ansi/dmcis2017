@@ -5,8 +5,8 @@ November 18, 2017 New Orleans, USA
 
 ## Location
 
-Hotel The Roosevelt New Orleans
-Room "Prytania" on the second level
+<span style="color:#FFFF00"> Hotel The Roosevelt New Orleans <br>
+Room "Prytania" on the second level </span>
 
 ## Program
 
