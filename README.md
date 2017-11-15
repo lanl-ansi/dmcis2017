@@ -9,6 +9,7 @@ November 18, 2017 New Orleans, USA
 Scott Backhaus, Andrey Lokhov (Los Alamos National Laboratory, USA)
 
 **<span style="color:#FFFF00">8.35 - 9.35 am</span> [Keynote invited talk]**<br>
+<span style="color:#FFFF00">"Data Analytic Approaches to Cyber-Physical System Resiliency"</span><br>
 William H. Sanders (University of Illinois at Urbana-Champaign)
 
 **<span style="color:#FFFF00">9.40 - 10.00 am</span> [Accepted paper]**<br>
@@ -22,18 +23,18 @@ Aditya Ashok (Pacific Northwest National Lab, USA)
 Timothy Heidel (NRECA)
 
 **<span style="color:#FFFF00">10.40 - 11.00 am</span> [Accepted paper]**<br>
-<span style="color:#FFFF00">"An Adaptive Modeling Framework for Bivariate Data Streams with Applications to Change Detection in Cyber-Physical Systems"</span><br>
-Joshua Plasse, Jordan Noble* (Imperial College London, UK)<br>
-Kary Myers (Los Alamos National Laboratory, USA)
-
-**<span style="color:#FFFF00">11.00 - 11.20 am</span> [Accepted paper]**<br>
 <span style="color:#FFFF00">"Anomaly Detection for a Water Treatment System Using Unsupervised Machine Learning"</span><br>
 Jun Inoue, Yoriyuki Yamagata* (National Institute of Advanced Industrial Science and Technology, Japan)<br>
 Yuqi Chen, Christopher Poskitt, Jun Sun (Singapore University of Technology and Design, Singapore)
 
-**<span style="color:#FFFF00">11.25 - 11.45 am</span> [Accepted paper]**<br>
+**<span style="color:#FFFF00">11.00 - 11.20 am</span> [Accepted paper]**<br>
 <span style="color:#FFFF00">"Pattern-Based Contextual Anomaly Detection in HVAC Systems"</span><br>
 Mohsin Munir*, Andreas Dengel, Sheraz Ahmed (German Research Centre for Artificial Intelligence, Germany)
+
+**<span style="color:#FFFF00">11.25 - 11.45 am</span> [Accepted paper]**<br>
+<span style="color:#FFFF00">"An Adaptive Modeling Framework for Bivariate Data Streams with Applications to Change Detection in Cyber-Physical Systems"</span><br>
+Joshua Plasse, Jordan Noble* (Imperial College London, UK)<br>
+Kary Myers (Los Alamos National Laboratory, USA)
 
 ## Workshop Description and Call for papers
 
