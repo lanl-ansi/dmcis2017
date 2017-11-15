@@ -3,6 +3,11 @@
 A workshop organized in association with ICDM’2017 <br>
 November 18, 2017 New Orleans, USA
 
+## Location
+
+Hotel The Roosevelt New Orleans
+Room "Prytania" on the second level
+
 ## Program
 
 **<span style="color:#FFFF00">8.30 - 8.35 am</span> [Introduction by the organizers]**<br>
