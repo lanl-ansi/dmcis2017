@@ -39,7 +39,7 @@ Mohsin Munir*, Andreas Dengel, Sheraz Ahmed (German Research Centre for Artifici
 
 **<span style="color:#FFFF00">11.25 - 11.45 am</span> [Accepted paper]**<br>
 <span style="color:#FFFF00">"An Adaptive Modeling Framework for Bivariate Data Streams with Applications to Change Detection in Cyber-Physical Systems"</span><br>
-Joshua Plasse, Jordan Noble* (Imperial College London, UK)<br>
+Joshua Plasse*, Jordan Noble (Imperial College London, UK)<br>
 Kary Myers (Los Alamos National Laboratory, USA)
 
 ## Workshop Description and Call for papers
