@@ -25,6 +25,7 @@ Aditya Ashok (Pacific Northwest National Lab, USA)
 **<span style="color:#FFFF00">10.00 - 10.15 am</span> [Coffee break]**
 
 **<span style="color:#FFFF00">10.15 - 10.35 am</span> [Invited talk]**<br>
+<span style="color:#FFFF00">"The Role for Data Mining in Enhancing Electric Utility Cybersecurity"</span><br>
 Timothy Heidel (NRECA)
 
 **<span style="color:#FFFF00">10.40 - 11.00 am</span> [Accepted paper]**<br>
